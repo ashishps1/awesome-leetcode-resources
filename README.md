@@ -1,4 +1,4 @@
-# Awesome LeetCode Srticles
+# Awesome LeetCode Articles
 This repository contains articles which are very useful while solving LeetCode problems and during the interview preparation.
 
 ## Patterns
