@@ -18,6 +18,6 @@ This repository contains articles which are very useful while solving LeetCode p
 - [String Question Patterns](https://leetcode.com/discuss/study-guide/2001789/Collections-of-Important-String-questions-Pattern)
 - [DFS + BFS Patterns (1)](https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52)
 - [DFS + BFS Patterns (2)](https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52)
-
+- [Stock Series Patterns](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solutions/108870/most-consistent-ways-of-dealing-with-the-series-of-stock-problems/)
 
 Your contributions are most welcome!
