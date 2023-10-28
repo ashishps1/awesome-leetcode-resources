@@ -1,5 +1,5 @@
-# Awesome LeetCode Articles
-This repository contains articles which are very useful while solving LeetCode problems and during the interview preparation.
+# Awesome LeetCode Resources
+This repository contains LeetCode resources which are useful during interview preparation.
 
 ## Patterns
 - [14 Coding Interview Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
