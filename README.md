@@ -14,7 +14,7 @@ This repository contains LeetCode resources which are useful during interview pr
   - [Tree Question Pattern](https://leetcode.com/discuss/study-guide/2879240/TREE-QUESTION-PATTERN-2023-oror-TREE-STUDY-GUIDE) 
 - [Graph Patterns](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
 - [Monotonic Stack Patterns](https://leetcode.com/discuss/study-guide/2347639/A-comprehensive-guide-and-template-for-monotonic-stack-based-problems)
-- [Bit Manipulation Patterns](https://leetcode.com/discuss/study-guide/3901862/All-Types-of-Patterns-for-Bits-Manipulations-and-How-to-use-it)
+- [Bit Manipulation Patterns](https://leetcode.com/discuss/study-guide/4282051/all-types-of-patterns-for-bits-manipulations-and-how-to-use-it)
 - [String Question Patterns](https://leetcode.com/discuss/study-guide/2001789/Collections-of-Important-String-questions-Pattern)
 - [DFS + BFS Patterns (1)](https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52)
 - [DFS + BFS Patterns (2)](https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52)
