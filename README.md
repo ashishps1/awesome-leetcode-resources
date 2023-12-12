@@ -27,6 +27,12 @@ This repository contains LeetCode resources which are useful during interview pr
 - [LeetHub v2](https://chromewebstore.google.com/detail/leethub-v2/mhanfgfagplhgemhjfeolkkdidbakocm?hl=en): Automatically integrate your Leetcode & GeeksforGeeks submissions to GitHub.
 - [LeetCode VS Code Extension](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode): Solve LeetCode problems in VS Code.
 
+## Curated Problems
+- [Blind 75](https://neetcode.io/practice)
+- [Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)
+- [Leetcode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
+- [Leetcode 75](https://leetcode.com/studyplan/leetcode-75/)
+
 ## Must-Do Problems (Topic Wise)
 
 
