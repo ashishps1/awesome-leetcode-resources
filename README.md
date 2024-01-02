@@ -62,3 +62,4 @@ This repository contains LeetCode resources which are useful during interview pr
 
 
 Your contributions are most welcome!
+- [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
