@@ -58,7 +58,17 @@ This repository contains LeetCode resources which are useful during interview pr
 - [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 
 ## Must-Do Problems (Topic Wise)
-  - Work in progress. Will publish soon.
+### Tries
+  - [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
+  - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+  - [Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/description/)
+  - [Longest Word in Dictionary](https://leetcode.com/problems/longest-word-in-dictionary/description/)
+  - [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)
+  - [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/)
+  - [Implement Magic Dictionary](https://leetcode.com/problems/implement-magic-dictionary/description/)
+  - [Replace Words](https://leetcode.com/problems/replace-words/description/)
+  - [Word Search II](https://leetcode.com/problems/word-search-ii/description/)
+  - [Stream of Characters](https://leetcode.com/problems/stream-of-characters/description/)
 
 
 Your contributions are most welcome!
