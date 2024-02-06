@@ -58,7 +58,7 @@ This repository contains LeetCode resources which are useful during interview pr
 - [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 
 ## Must-Do Problems (Topic Wise)
-### Trees
+### Binary Trees
   - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
   - [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
   - [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/description/)
