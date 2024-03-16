@@ -64,6 +64,21 @@ This repository contains LeetCode resources which are useful during interview pr
 
 ## Must-Do Problems (Topic Wise)
 ### Linked List
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+- [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+- [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
+- [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
+- [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)
+- [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list)
+- [Rotate List](https://leetcode.com/problems/rotate-list/description/)
+- [Sort List](https://leetcode.com/problems/sort-list/description/)
+- [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)
+- [LRU Cache](https://leetcode.com/problems/lru-cache/description/)
+- [Design Browser History](https://leetcode.com/problems/design-browser-history/description/)
+- [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+- [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
 ### Stacks
 ### Queues
 ### Binary Trees
