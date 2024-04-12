@@ -58,6 +58,12 @@ This repository contains LeetCode resources which are useful during interview pr
 - [Data Structures And Algorithms Made Easy](https://www.amazon.com/Data-Structures-Algorithms-Made-Easy-ebook/dp/B0CBW278NC/)
 - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
 
+## YouTube Playlists
+- [Dynamic Programming](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+- [Backtracking](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdbOTog8Jxk9XOjzUs3egMP)
+- [Recursion](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY)
+- [Graphs](https://www.youtube.com/playlist?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn)
+
 ## Courses
 - [Coursera - Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 - [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
