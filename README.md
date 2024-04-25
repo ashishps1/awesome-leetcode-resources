@@ -7,6 +7,7 @@
 This repository contains LeetCode resources which are useful during interview preparation.
 
 ## Fundamental Concepts
+- [Time Complexity](https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/)
 - [Linked List](https://leetcode.com/discuss/study-guide/1800120/become-master-in-linked-list)
 - [Queues](https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04)
 - [Stacks](https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67)
