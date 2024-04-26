@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ashishps1/">LinkedIn</a> | <a href="https://www.youtube.com/@ashishps_1/videos">YouTube</a> | <a href="https://twitter.com/ashishps_1">X</a> | <a href="https://newsletter.ashishps.com/">Newsletter</a>
 </p>
-This repository contains LeetCode resources which are useful during interview preparation.
+Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and prepare for Coding interviews.
 
 ## Fundamental Concepts
 - [Time Complexity](https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/)
