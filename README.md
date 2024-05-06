@@ -8,6 +8,7 @@ Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and pre
 
 ## Fundamental Concepts
 - [Time Complexity](https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/)
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [Linked List](https://leetcode.com/discuss/study-guide/1800120/become-master-in-linked-list)
 - [Queues](https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04)
 - [Stacks](https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67)
