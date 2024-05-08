@@ -124,6 +124,3 @@ Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and pre
 
 
 Your contributions are most welcome!
-
----
-### If you found this repository helpful, you can show your support by [buying me a coffee](https://buymeacoffee.com/ashishps).
