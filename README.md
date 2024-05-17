@@ -4,9 +4,11 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ashishps1/">LinkedIn</a> | <a href="https://www.youtube.com/@ashishps_1/videos">YouTube</a> | <a href="https://twitter.com/ashishps_1">X</a> | <a href="https://newsletter.ashishps.com/">Newsletter</a>
 </p>
-This repository contains LeetCode resources which are useful during interview preparation.
+Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and prepare for Coding interviews.
 
 ## Fundamental Concepts
+- [Time Complexity](https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/)
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [Linked List](https://leetcode.com/discuss/study-guide/1800120/become-master-in-linked-list)
 - [Queues](https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04)
 - [Stacks](https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67)
@@ -33,6 +35,7 @@ This repository contains LeetCode resources which are useful during interview pr
 - [Tree Patterns](https://leetcode.com/discuss/study-guide/937307/Iterative-or-Recursive-or-DFS-and-BFS-Tree-Traversal-or-In-Pre-Post-and-LevelOrder-or-Views)
   - [Tree Iterative Traversal](https://medium.com/leetcode-patterns/leetcode-pattern-0-iterative-traversals-on-trees-d373568eb0ec)
   - [Tree Question Pattern](https://leetcode.com/discuss/study-guide/2879240/TREE-QUESTION-PATTERN-2023-oror-TREE-STUDY-GUIDE) 
+- [Heap Patterns](https://leetcode.com/discuss/general-discussion/1127238/master-heap-by-solving-23-questions-in-4-patterns-category)
 - [Graph Patterns](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
 - [Monotonic Stack Patterns](https://leetcode.com/discuss/study-guide/2347639/A-comprehensive-guide-and-template-for-monotonic-stack-based-problems)
 - [Bit Manipulation Patterns](https://leetcode.com/discuss/study-guide/4282051/all-types-of-patterns-for-bits-manipulations-and-how-to-use-it)
