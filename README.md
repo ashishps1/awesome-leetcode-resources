@@ -52,7 +52,6 @@ Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and pre
 - [LeetCode VS Code Extension](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode): Solve LeetCode problems in VS Code.
 
 ## Curated Problems
-- [Blind 75](https://neetcode.io/practice)
 - [Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)
 - [Leetcode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
 - [Leetcode 75](https://leetcode.com/studyplan/leetcode-75/)
@@ -82,8 +81,6 @@ Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and pre
 - [Design Browser History](https://leetcode.com/problems/design-browser-history/description/)
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
-### Stacks
-### Queues
 ### Binary Trees
   - [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
   - [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)
