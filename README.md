@@ -2,7 +2,7 @@
   <img src="images/leetcode-repo-logo.png" width="350" height="200">
 </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashishps1/">LinkedIn</a> | <a href="https://www.youtube.com/@ashishps_1/videos">YouTube</a> | <a href="https://twitter.com/ashishps_1">X</a> | <a href="https://newsletter.ashishps.com/">Newsletter</a>
+  <a href="https://www.linkedin.com/in/ashishps1/">LinkedIn</a> | <a href="https://www.youtube.com/@ashishps_1/videos">YouTube</a> | <a href="https://twitter.com/ashishps_1">X</a> | <a href="https://algomaster.substack.com/">Newsletter</a>
 </p>
 Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and prepare for Coding interviews.
 
