@@ -108,6 +108,24 @@ Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and pre
   - [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/description/)
   - [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)
   - [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/)
+### Stacks
+### Queues
+### Hash Tables
+### Priority Queues
+### Backtracking
+- [Permutations](https://leetcode.com/problems/permutations/description/)
+- [Subsets](https://leetcode.com/problems/subsets/description/)
+- [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
+- [Combination Sum](https://leetcode.com/problems/combination-sum/description/)
+- [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/)
+- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
+- [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/description/)
+- [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)
+- [N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)
+- [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)
+### Graphs
+### Binary Search
+### Dynamic Programming
 ### Tries
   - [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
   - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
