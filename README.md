@@ -9,6 +9,7 @@ Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and pre
 ## Fundamental Concepts
 - [Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
+- [Sorting Algorithms](https://medium.com/jl-codes/understanding-sorting-algorithms-af6222995c8)
 - [Linked List](https://leetcode.com/discuss/study-guide/1800120/become-master-in-linked-list)
   - [Dummy Node Technique](https://blog.algomaster.io/p/5d7a1368-7a0c-461a-93a9-732333ceb2a8)
 - [Queues](https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04)
@@ -16,14 +17,16 @@ Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and pre
 - [Hash Tables](https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0)
 - [Heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238)
 - [Recursion](https://leetcode.com/discuss/study-guide/1733447/become-master-in-recursion)
+- [Backtracking](https://medium.com/algorithms-and-leetcode/backtracking-e001561b9f28)
 - [Trees](https://leetcode.com/discuss/study-guide/1820334/Become-Master-in-Tree)
 - [Tries](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014)
 - [Binary Search](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
+- [Greedy Algorithm](https://www.freecodecamp.org/news/greedy-algorithms/)
 - [Dynamic Programming](https://medium.com/basecs/less-repetition-more-dynamic-programming-43d29830a630)
 - [Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
 - [DFS Traversal](https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13)
 - [BFS Traversal](https://medium.com/basecs/going-broad-in-a-graph-bfs-traversal-959bd1a09255)
-- [Dijkstra Algorithm](https://medium.com/basecs/finding-the-shortest-path-with-a-little-help-from-dijkstra-613149fbdc8e)
+- [Dijkstra Algorithm](https://leetcode.com/discuss/study-guide/1059477/A-guide-to-Dijkstra's-Algorithm)
 
 ## Patterns
 - [14 Coding Interview Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
@@ -45,6 +48,24 @@ Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and pre
 - [DFS + BFS Patterns (2)](https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52)
 - [Stock Series Patterns](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solutions/108870/most-consistent-ways-of-dealing-with-the-series-of-stock-problems/)
 
+## YouTube Playlist
+- [Abdul Bari's Algorithms Playlist](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
+- [William Fiset's Data Structure Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
+- [William Fiset's Graphs Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
+- [Tushar Roy's Dynamic Programming Playlist](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+
+## Courses
+- [Coursera - Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
+- [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
+
+## Books
+- [Data Structures And Algorithms Made Easy](https://www.amazon.com/Data-Structures-Algorithms-Made-Easy-ebook/dp/B0CBW278NC/)
+- [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
+
+## Visualization
+- [VisuAlgo](https://visualgo.net/en)
+- [Algo-lens: Visualize leetcode problems](https://github.com/jaroslaw-weber/algo-lens)
+
 ## LeetCode Extensions
 - [LeetCode Timer](https://chromewebstore.google.com/detail/leetcode-timer/gfkgelnlcnomnahkfmhemgpahgmibofd): Easily time your leetcode practise sessions with automatic time setting based on difficulty.
 - [LeetCode Video Solutions](https://chromewebstore.google.com/detail/leetcode-video-solutions/ilnmgkahgjdpkoliooildngldmilhelm): Watch free LeetCode video ▶ solutions on the problem page itself.
@@ -56,17 +77,6 @@ Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and pre
 - [Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)
 - [Leetcode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
 - [Leetcode 75](https://leetcode.com/studyplan/leetcode-75/)
-
-## Books
-- [Data Structures And Algorithms Made Easy](https://www.amazon.com/Data-Structures-Algorithms-Made-Easy-ebook/dp/B0CBW278NC/)
-- [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
-
-## Courses
-- [Coursera - Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
-- [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
-
-## Visualization
-- [Algo-lens: Visualize leetcode problems](https://github.com/jaroslaw-weber/algo-lens)
 
 ## Must-Do Problems (Topic Wise)
 ### Linked List
@@ -111,10 +121,6 @@ Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and pre
   - [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/description/)
   - [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/)
   - [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/)
-### Stacks
-### Queues
-### Hash Tables
-### Priority Queues
 ### Backtracking
 - [Permutations](https://leetcode.com/problems/permutations/description/)
 - [Subsets](https://leetcode.com/problems/subsets/description/)
@@ -126,9 +132,6 @@ Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and pre
 - [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/description/)
 - [N-Queens II](https://leetcode.com/problems/n-queens-ii/description/)
 - [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/)
-### Graphs
-### Binary Search
-### Dynamic Programming
 ### Tries
   - [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)
   - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
