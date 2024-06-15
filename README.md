@@ -65,6 +65,9 @@ Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and pre
 - [Coursera - Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 - [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 
+## Visualization
+- [Algo-lens: Visualize leetcode problems](https://github.com/jaroslaw-weber/algo-lens)
+
 ## Must-Do Problems (Topic Wise)
 ### Linked List
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
