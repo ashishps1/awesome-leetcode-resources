@@ -7,7 +7,7 @@
 Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and prepare for Coding interviews.
 
 ## Fundamental Concepts
-- [Time Complexity](https://www.freecodecamp.org/news/big-o-cheat-sheet-time-complexity-chart/)
+- [Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [Linked List](https://leetcode.com/discuss/study-guide/1800120/become-master-in-linked-list)
   - [Dummy Node Technique](https://blog.algomaster.io/p/5d7a1368-7a0c-461a-93a9-732333ceb2a8)
