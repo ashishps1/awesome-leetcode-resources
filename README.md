@@ -26,7 +26,9 @@ Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and pre
 - [Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
 - [DFS Traversal](https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13)
 - [BFS Traversal](https://medium.com/basecs/going-broad-in-a-graph-bfs-traversal-959bd1a09255)
+- [Union-Find](https://leetcode.com/discuss/general-discussion/1072418/Disjoint-Set-Union-(DSU)Union-Find-A-Complete-Guide)
 - [Dijkstra Algorithm](https://leetcode.com/discuss/study-guide/1059477/A-guide-to-Dijkstra's-Algorithm)
+- [Minimum Spanning Tree](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/)
 
 ## Patterns
 - [14 Coding Interview Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
