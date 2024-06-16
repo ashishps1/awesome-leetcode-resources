@@ -6,6 +6,10 @@
 </p>
 Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and prepare for Coding interviews.
 
+## Tips
+- [How to Start LeetCode](https://www.youtube.com/watch?v=Nx4bvwU0DqE)
+- [How I Mastered DSA](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
+
 ## Fundamental Concepts
 - [Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
