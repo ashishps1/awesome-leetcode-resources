@@ -6,11 +6,11 @@
 </p>
 Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and prepare for Coding interviews.
 
-## Tips
+## 💡 Tips
 - [How to Start LeetCode](https://www.youtube.com/watch?v=Nx4bvwU0DqE)
 - [How I Mastered DSA](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
 
-## Fundamental Concepts
+## 📌 Fundamental Concepts
 - [Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [Sorting Algorithms](https://medium.com/jl-codes/understanding-sorting-algorithms-af6222995c8)
@@ -34,7 +34,7 @@ Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and pre
 - [Dijkstra Algorithm](https://leetcode.com/discuss/study-guide/1059477/A-guide-to-Dijkstra's-Algorithm)
 - [Minimum Spanning Tree](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/)
 
-## Patterns
+## 🚀 Patterns
 - [14 Coding Interview Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 - [Fast and Slow Pointers Pattern](https://medium.com/@arifimran5/fast-and-slow-pointer-pattern-in-linked-list-43647869ac99)
 - [Prefix Sum Pattern](https://leetcodethehardway.com/tutorials/basic-topics/prefix-sum)
@@ -56,21 +56,22 @@ Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and pre
 - [DFS + BFS Patterns (2)](https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52)
 - [Stock Series Patterns](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solutions/108870/most-consistent-ways-of-dealing-with-the-series-of-stock-problems/)
 
-## YouTube Playlist
+## 📺 YouTube Playlist
 - [Abdul Bari's Algorithms Playlist](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [William Fiset's Data Structure Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
 - [William Fiset's Graphs Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
 - [Tushar Roy's Dynamic Programming Playlist](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 
-## Courses
+## 📇 Courses
 - [Coursera - Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 - [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
+- [Grokking Coding Interview Patterns](https://www.educative.io/courses/grokking-coding-interview-patterns-java?aff=BZyO)
 
-## Books
+## 📚 Books
 - [Data Structures And Algorithms Made Easy](https://www.amazon.com/Data-Structures-Algorithms-Made-Easy-ebook/dp/B0CBW278NC/)
 - [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
 
-## Visualization
+## 🔎 Visualization
 - [VisuAlgo](https://visualgo.net/en)
 - [Algo-lens: Visualize leetcode problems](https://github.com/jaroslaw-weber/algo-lens)
 
@@ -81,12 +82,12 @@ Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and pre
 - [LeetHub v2](https://chromewebstore.google.com/detail/leethub-v2/mhanfgfagplhgemhjfeolkkdidbakocm?hl=en): Automatically integrate your Leetcode & GeeksforGeeks submissions to GitHub.
 - [LeetCode VS Code Extension](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode): Solve LeetCode problems in VS Code.
 
-## Curated Problems
+## ✅ Curated Problems
 - [Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)
 - [Leetcode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
 - [Leetcode 75](https://leetcode.com/studyplan/leetcode-75/)
 
-## Must-Do Problems (Topic Wise)
+## 💻 Must-Do Problems (Topic Wise)
 ### Linked List
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
