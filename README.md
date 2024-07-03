@@ -75,7 +75,7 @@ Awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and pre
 - [VisuAlgo](https://visualgo.net/en)
 - [Algo-lens: Visualize leetcode problems](https://github.com/jaroslaw-weber/algo-lens)
 
-## LeetCode Extensions
+## 📎 LeetCode Extensions
 - [LeetCode Timer](https://chromewebstore.google.com/detail/leetcode-timer/gfkgelnlcnomnahkfmhemgpahgmibofd): Easily time your leetcode practise sessions with automatic time setting based on difficulty.
 - [LeetCode Video Solutions](https://chromewebstore.google.com/detail/leetcode-video-solutions/ilnmgkahgjdpkoliooildngldmilhelm): Watch free LeetCode video ▶ solutions on the problem page itself.
 - [LeetCode Format](https://chromewebstore.google.com/detail/leetcode-format/imogghebhifnnlgogigikjecilkicfpp): Adds Format code button on leetcode to format the code using Prettier code formatter.
