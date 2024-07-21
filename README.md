@@ -37,7 +37,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [Minimum Spanning Tree](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/)
 
 ## 🚀 Patterns
-- [14 Coding Interview Patterns](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [15 Leetcode Patterns](https://blog.algomaster.io/p/15-leetcode-patterns)
 - [Fast and Slow Pointers Pattern](https://medium.com/@arifimran5/fast-and-slow-pointer-pattern-in-linked-list-43647869ac99)
 - [Prefix Sum Pattern](https://leetcodethehardway.com/tutorials/basic-topics/prefix-sum)
 - [Sliding Window patterns](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/)
