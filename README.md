@@ -38,8 +38,8 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 
 ## 🚀 Patterns
 - [15 Leetcode Patterns](https://blog.algomaster.io/p/15-leetcode-patterns)
+- [Prefix Sum Pattern](https://blog.algomaster.io/p/f96dd3de-c89c-428e-a88d-b1f751a42a57)
 - [Fast and Slow Pointers Pattern](https://medium.com/@arifimran5/fast-and-slow-pointer-pattern-in-linked-list-43647869ac99)
-- [Prefix Sum Pattern](https://leetcodethehardway.com/tutorials/basic-topics/prefix-sum)
 - [Sliding Window patterns](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/)
 - [Two Pointers Patterns](https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days)
 - [Substring Problem Patterns](https://leetcode.com/problems/minimum-window-substring/solutions/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems/)
