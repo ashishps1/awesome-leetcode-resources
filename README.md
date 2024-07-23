@@ -42,6 +42,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [Fast and Slow Pointers Pattern](https://blog.algomaster.io/p/7dcce8e9-beee-4fef-8874-7aae025031b1)
 - [Top 'K' Elements Pattern](https://blog.algomaster.io/p/322aac40-c4d0-4e54-980d-b22d9eeebca6)
 - [Monotonic Stack](https://blog.algomaster.io/p/5dabff21-11f4-470d-8e38-76ff07c63fdf)
+- [Overlapping Intervals](https://blog.algomaster.io/p/812e72f7-eced-4256-a4c1-00606ae50679)
 - [Tree Patterns](https://leetcode.com/discuss/study-guide/937307/Iterative-or-Recursive-or-DFS-and-BFS-Tree-Traversal-or-In-Pre-Post-and-LevelOrder-or-Views)
   - [Tree Iterative Traversal](https://medium.com/leetcode-patterns/leetcode-pattern-0-iterative-traversals-on-trees-d373568eb0ec)
   - [Tree Question Pattern](https://leetcode.com/discuss/study-guide/2879240/TREE-QUESTION-PATTERN-2023-oror-TREE-STUDY-GUIDE) 
