@@ -38,6 +38,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 
 ## 🚀 Patterns
 - [15 Leetcode Patterns](https://blog.algomaster.io/p/15-leetcode-patterns)
+- [20 DP Patterns](https://blog.algomaster.io/p/20-patterns-to-master-dynamic-programming)
 - [Prefix Sum Pattern](https://blog.algomaster.io/p/f96dd3de-c89c-428e-a88d-b1f751a42a57)
 - [Two Pointers Pattern](https://blog.algomaster.io/p/69025a2e-b0d5-4705-8507-bba16c2691f1)
 - [Fast and Slow Pointers Pattern](https://blog.algomaster.io/p/7dcce8e9-beee-4fef-8874-7aae025031b1)
