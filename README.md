@@ -77,7 +77,6 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 ## 📇 Courses
 - [Coursera - Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 - [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
-- [Grokking the Coding Interview: Patterns for Coding Questions](https://www.designgurus.io/course/grokking-the-coding-interview/?aff=mopp8k)
 
 ## 📚 Books
 - [Data Structures And Algorithms Made Easy](https://www.amazon.com/Data-Structures-Algorithms-Made-Easy-ebook/dp/B0CBW278NC/)
