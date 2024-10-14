@@ -42,7 +42,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [20 DP Patterns](https://blog.algomaster.io/p/20-patterns-to-master-dynamic-programming)
 - [Prefix Sum Pattern](https://blog.algomaster.io/p/f96dd3de-c89c-428e-a88d-b1f751a42a57)
 - [Two Pointers Pattern](https://blog.algomaster.io/p/69025a2e-b0d5-4705-8507-bba16c2691f1)
-- [Fast and Slow Pointers Pattern](https://blog.algomaster.io/p/7dcce8e9-beee-4fef-8874-7aae025031b1)
+- [Linked List In-place Reversal Pattern](https://blog.algomaster.io/p/7dcce8e9-beee-4fef-8874-7aae025031b1)
 - [Sliding Window Pattern](https://blog.algomaster.io/p/f4412a17-7a3a-4d0b-8e39-9ea8f429bf7c)
 - [Top 'K' Elements Pattern](https://blog.algomaster.io/p/322aac40-c4d0-4e54-980d-b22d9eeebca6)
 - [Monotonic Stack Pattern](https://blog.algomaster.io/p/5dabff21-11f4-470d-8e38-76ff07c63fdf)
