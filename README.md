@@ -80,8 +80,8 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 
 ## 📚 Books
-- [Data Structures And Algorithms Made Easy](https://www.amazon.com/Data-Structures-Algorithms-Made-Easy-ebook/dp/B0CBW278NC/)
-- [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/)
+- [Data Structures And Algorithms Made Easy](https://amzn.to/40bsEUF)
+- [Cracking the Coding Interview](https://amzn.to/4e4HNdE)
 
 ## 🔎 Visualization
 - [VisuAlgo](https://visualgo.net/en)
