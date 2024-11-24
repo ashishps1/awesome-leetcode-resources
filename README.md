@@ -96,6 +96,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [LeetCode VS Code Extension](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode): Solve LeetCode problems in VS Code.
 
 ## ✅ Curated Problems
+- [AlgoMaster 200](https://algomaster.io/practice/dsa-patterns)
 - [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 - [Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)
 - [Leetcode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
