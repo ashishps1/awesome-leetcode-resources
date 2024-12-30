@@ -91,8 +91,8 @@ If you want to practice curated list of LeetCode problems organized by patterns,
 - [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 
 ## 📚 Books
-- [Data Structures And Algorithms Made Easy](https://amzn.to/40bsEUF)
-- [Cracking the Coding Interview](https://amzn.to/4e4HNdE)
+- [Data Structures And Algorithms Made Easy](https://www.amazon.in/dp/B08CMLS7LZ)
+- [Cracking the Coding Interview](https://www.amazon.in/dp/0984782850)
 
 ## 📩 Newsletter
 - [AlgoMaster Newsletter](https://blog.algomaster.io/)
