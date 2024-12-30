@@ -73,7 +73,14 @@ If you want to practice curated list of LeetCode problems organized by patterns,
 - [Dynamic Programming Patterns](https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns)
 - [Stock Series Patterns](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solutions/108870/most-consistent-ways-of-dealing-with-the-series-of-stock-problems/)
 
+## ✅ Curated Problems
+- [AlgoMaster 300](https://algomaster.io/practice/dsa-patterns)
+- [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
+- [Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)
+- [Leetcode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
+
 ## 📺 YouTube Playlist
+- [AlgoMaster LeetCode Pattern Playlist](https://www.youtube.com/playlist?list=PLK63NuByH5o-tqaMUHRA4r8ObRW7PWz45)
 - [Abdul Bari's Algorithms Playlist](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [William Fiset's Data Structure Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
 - [William Fiset's Graphs Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
@@ -87,11 +94,8 @@ If you want to practice curated list of LeetCode problems organized by patterns,
 - [Data Structures And Algorithms Made Easy](https://amzn.to/40bsEUF)
 - [Cracking the Coding Interview](https://amzn.to/4e4HNdE)
 
-## ✅ Curated Problems
-- [AlgoMaster 300](https://algomaster.io/practice/dsa-patterns)
-- [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
-- [Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)
-- [Leetcode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
+## 📩 Newsletter
+- [AlgoMaster Newsletter](https://blog.algomaster.io/)
 
 ## 🔎 Visualization
 - [VisuAlgo](https://visualgo.net/en)
