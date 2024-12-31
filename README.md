@@ -47,7 +47,7 @@ If you want to practice curated list of LeetCode problems organized by patterns,
 - [Fast and Slow Pointers Pattern](https://www.youtube.com/watch?v=b139yf7Ik-E)
 - [Kadane's Algorithm](https://www.youtube.com/watch?v=NUWAXbSlsws)
 - [Two Pointers Pattern](https://blog.algomaster.io/p/69025a2e-b0d5-4705-8507-bba16c2691f1)
-- [Linked List In-place Reversal Pattern](https://blog.algomaster.io/p/7dcce8e9-beee-4fef-8874-7aae025031b1)
+- [Linked List In-place Reversal Pattern](https://www.youtube.com/watch?v=auoTGovuo9A)
 - [Sliding Window Pattern](https://blog.algomaster.io/p/f4412a17-7a3a-4d0b-8e39-9ea8f429bf7c)
 - [Monotonic Stack Pattern](https://blog.algomaster.io/p/5dabff21-11f4-470d-8e38-76ff07c63fdf)
 - [Overlapping Intervals Pattern](https://blog.algomaster.io/p/812e72f7-eced-4256-a4c1-00606ae50679)
