@@ -49,7 +49,7 @@ If you want to practice curated list of LeetCode problems organized by patterns,
 - [Two Pointers Pattern](https://blog.algomaster.io/p/69025a2e-b0d5-4705-8507-bba16c2691f1)
 - [Linked List In-place Reversal Pattern](https://www.youtube.com/watch?v=auoTGovuo9A)
 - [Sliding Window Pattern](https://blog.algomaster.io/p/f4412a17-7a3a-4d0b-8e39-9ea8f429bf7c)
-- [Monotonic Stack Pattern](https://blog.algomaster.io/p/5dabff21-11f4-470d-8e38-76ff07c63fdf)
+- [Monotonic Stack Pattern](https://www.youtube.com/watch?v=DtJVwbbicjQ)
 - [Overlapping Intervals Pattern](https://blog.algomaster.io/p/812e72f7-eced-4256-a4c1-00606ae50679)
 - [Backtracking Pattern](https://blog.algomaster.io/p/81d42ca2-600c-4252-aa33-a56462090048)
 - [Modified Binary Search Pattern](https://blog.algomaster.io/p/d0d81b04-4c2a-4b45-a101-5137c3146686)
