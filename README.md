@@ -46,6 +46,7 @@ If you want to practice curated list of LeetCode problems organized by patterns,
 - [Top 'K' Elements Pattern](https://www.youtube.com/watch?v=6_v6OoxvMOE)
 - [Fast and Slow Pointers Pattern](https://www.youtube.com/watch?v=b139yf7Ik-E)
 - [Kadane's Algorithm](https://www.youtube.com/watch?v=NUWAXbSlsws)
+- [Sliding Window Pattern](https://www.youtube.com/watch?v=y2d0VHdvfdc)
 - [Two Pointers Pattern](https://blog.algomaster.io/p/69025a2e-b0d5-4705-8507-bba16c2691f1)
 - [Linked List In-place Reversal Pattern](https://www.youtube.com/watch?v=auoTGovuo9A)
 - [Sliding Window Pattern](https://blog.algomaster.io/p/f4412a17-7a3a-4d0b-8e39-9ea8f429bf7c)
