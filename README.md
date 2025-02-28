@@ -111,3 +111,9 @@ If you want to practice curated list of LeetCode problems organized by patterns,
 - [LeetCode VS Code Extension](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode): Solve LeetCode problems in VS Code.
 
 Your contributions are most welcome!
+
+---
+
+<p align="center">
+  <i>If you find this resource helpful, please give it a star ⭐️ and share it with others!</i>
+</p>
