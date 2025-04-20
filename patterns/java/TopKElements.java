@@ -126,7 +126,9 @@ public class TopKElements {
 
     public int[][] kClosestPointsToOriginMaxHeapApproach(int[][] points, int k) {
         // Max heap with custom comparator to compare by distance
-        PriorityQueue<int[]> maxHeap = new PriorityQueue<>((a, b) -> getDistance(b) - getDistance(a));
+        PriorityQueue<int[]> maxHeap = new PriorityQueue<>(
+            (a, b) -> Integer.compare(getDistance(b), getDistance(a))
+        );
 
         // Iterate through all points
         for (int[] point : points) {
