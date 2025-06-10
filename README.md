@@ -34,6 +34,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [Dynamic Programming](https://medium.com/basecs/less-repetition-more-dynamic-programming-43d29830a630)
 - [Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
 - [Important Graph Algorithms](https://blog.algomaster.io/p/master-graph-algorithms-for-coding)
+-  Graph - 100 - leetcode - https://leetcode.com/discuss/study-guide/5757797/Solved-all-Graph-problems-in-100-days/
 - [DFS Traversal](https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13)
 - [BFS Traversal](https://medium.com/basecs/going-broad-in-a-graph-bfs-traversal-959bd1a09255)
 - [Union-Find](https://leetcode.com/discuss/general-discussion/1072418/Disjoint-Set-Union-(DSU)Union-Find-A-Complete-Guide)
