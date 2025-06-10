@@ -80,6 +80,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 - [Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)
 - [Leetcode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
+- [Top Questions Asked By Companies](https://nikhilm25.github.io/RelevantLeetcode/)
 
 ## 📺 YouTube Playlist
 - [AlgoMaster LeetCode Pattern Playlist](https://www.youtube.com/playlist?list=PLK63NuByH5o-tqaMUHRA4r8ObRW7PWz45)
