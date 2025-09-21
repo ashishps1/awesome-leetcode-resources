@@ -109,7 +109,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [LeetCode Format](https://chromewebstore.google.com/detail/leetcode-format/imogghebhifnnlgogigikjecilkicfpp): Adds Format code button on leetcode to format the code using Prettier code formatter.
 - [LeetHub v2](https://chromewebstore.google.com/detail/leethub-v2/mhanfgfagplhgemhjfeolkkdidbakocm?hl=en): Automatically integrate your Leetcode & GeeksforGeeks submissions to GitHub.
 - [LeetCode VS Code Extension](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode): Solve LeetCode problems in VS Code.
-- [LeetCode Py](https://github.com/wisarootl/leetcode-py/): Python LeetCode practice environment with automated problem generation, data structure visualizations, and comprehensive testing.
+- [LeetCode Py](https://github.com/wisarootl/leetcode-py/): Python package for professional LeetCode practice environment with automated problem generation, enhanced data structure visualizations, and comprehensive testing framework.
 
 Your contributions are most welcome!
 
