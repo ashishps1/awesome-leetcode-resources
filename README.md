@@ -95,6 +95,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 ## 📚 Books
 - [Data Structures And Algorithms Made Easy](https://www.amazon.in/dp/B08CMLS7LZ)
 - [Cracking the Coding Interview](https://www.amazon.in/dp/0984782850)
+- [The Art of Code](https://www.manning.com/books/the-art-of-code)
 
 ## 📩 Newsletter
 - [AlgoMaster Newsletter](https://blog.algomaster.io/)
