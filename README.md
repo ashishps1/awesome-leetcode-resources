@@ -73,6 +73,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [Bit Manipulation Patterns](https://leetcode.com/discuss/study-guide/4282051/all-types-of-patterns-for-bits-manipulations-and-how-to-use-it)
 - [Dynamic Programming Patterns](https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns)
 - [Stock Series Patterns](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/solutions/108870/most-consistent-ways-of-dealing-with-the-series-of-stock-problems/)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for coding challenge workflow orchestration, automated problem-solving management, and multi-agent coordination. MIT licensed.
 
 ## ✅ Curated Problems
 - [AlgoMaster 300](https://algomaster.io/practice/dsa-patterns)
