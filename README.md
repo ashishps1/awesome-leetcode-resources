@@ -14,6 +14,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [How to Start LeetCode](https://blog.algomaster.io/p/how-to-start-leetcode-in-2025)
 - [15 Leetcode Patterns](https://blog.algomaster.io/p/15-leetcode-patterns)
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=ashishps1_awesome-leetcode-resources) - Social feed for GitHub. Follow developers, discover trending repos, activity feeds.
 ## 📌 Fundamental Concepts
 - [Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
