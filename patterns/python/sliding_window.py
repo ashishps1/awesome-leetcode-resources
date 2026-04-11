@@ -44,3 +44,25 @@ class SlidingWindow:
             max_length = max(max_length, right - left + 1)
 
         return max_length
+
+    def maxSlidingWindow(self, nums, k):
+        from collections import deque
+        n = len(nums)
+        max_deque = deque()
+        z = [0] * (n - k + 1)
+
+        for i in range(k):
+            while max_deque and nums[max_deque[-1]] < nums[i]:
+                max_deque.pop()
+            max_deque.append(i)
+        z[0] = nums[max_deque[0]]
+
+        for i in range(k, n):
+            while max_deque and nums[max_deque[-1]] < nums[i]:
+                max_deque.pop()
+            max_deque.append(i)
+            if max_deque[0] == i - k:
+                max_deque.popleft()
+            z[i - k + 1] = nums[max_deque[0]]
+
+        return z
