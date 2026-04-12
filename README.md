@@ -102,6 +102,7 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 ## 🔎 Visualization
 - [AlgoMaster DSA Animations](https://algomaster.io/animations/dsa)
 - [VisuAlgo](https://visualgo.net/en)
+- [codedive](https://codedive.in)
 
 ## 📎 LeetCode Extensions
 - [LeetCode Timer](https://chromewebstore.google.com/detail/leetcode-timer/gfkgelnlcnomnahkfmhemgpahgmibofd): Easily time your leetcode practise sessions with automatic time setting based on difficulty.
