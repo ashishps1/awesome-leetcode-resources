@@ -82,6 +82,9 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)
 - [Leetcode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
 
+## 🏢 Company-Specific Questions
+- [LeakCode](https://leakcode.dev) - Aggregates 23,000+ real interview questions from 7 sources (LeetCode Discuss, Blind, Glassdoor, 1p3a, Reddit, GeeksForGeeks), searchable by company (805+), role, and interview round. Free.
+
 ## 📺 YouTube Playlist
 - [AlgoMaster DSA Playlist](https://www.youtube.com/playlist?list=PLK63NuByH5o9odyBT7nfYkHZyvGQ5oVp2&pp=gAQB)
 - [AlgoMaster LeetCode Pattern Playlist](https://www.youtube.com/playlist?list=PLK63NuByH5o-tqaMUHRA4r8ObRW7PWz45)
