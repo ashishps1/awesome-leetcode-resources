@@ -112,6 +112,9 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 - [LeetHub v2](https://chromewebstore.google.com/detail/leethub-v2/mhanfgfagplhgemhjfeolkkdidbakocm?hl=en): Automatically integrate your Leetcode & GeeksforGeeks submissions to GitHub.
 - [LeetCode VS Code Extension](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode): Solve LeetCode problems in VS Code.
 
+## 🏢 Real Company Questions
+- [LeakCode](https://leakcode.dev/): 60K+ real interview questions from 2K+ companies, aggregated from LeetCode Discuss, 1Point3Acres, Glassdoor, Reddit, and other sources. Search by company to see what questions are actually being asked.
+
 Your contributions are most welcome!
 
 ---
