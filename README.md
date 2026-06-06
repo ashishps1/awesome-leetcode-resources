@@ -5,63 +5,52 @@
   <a href="https://blog.algomaster.io/">Join Free Newsletter</a>
 </p>
 
-This repository contains awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and prepare for Coding interviews.
+This repository contains awesome resources to learn Data Structures and Algorithms (DSA) and prepare for Coding interviews.
 
-👉 If you want to master DSA patterns, checkout [AlgoMaster.io](https://algomaster.io)
+👉 If you want to learn DSA from scratch and master all important DSA patterns, checkout this comprehensive and interactive resource [DSA - AlgoMaster.io (https://algomaster.io/learn/dsa)
 
 ## 💡 Tips
 - [How I Mastered DSA](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
 - [How to Start LeetCode](https://blog.algomaster.io/p/how-to-start-leetcode-in-2025)
-- [15 Leetcode Patterns](https://blog.algomaster.io/p/15-leetcode-patterns)
+- [20 DSA Patterns](https://blog.algomaster.io/p/20-dsa-patterns)
 
 ## 📌 Fundamental Concepts
-- [Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
-- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
-- [Arrays](https://www.youtube.com/watch?v=SlNq09scdWE&list=PLK63NuByH5o9odyBT7nfYkHZyvGQ5oVp2)
-- [Bit Manipulation Techniques](https://blog.algomaster.io/p/c650df76-f978-46ee-a572-eb13c354905d)
-- [Sorting Algorithms](https://medium.com/jl-codes/understanding-sorting-algorithms-af6222995c8)
-- [Linked List](https://www.youtube.com/watch?v=FbHf0ii0WDg&list=PLK63NuByH5o9odyBT7nfYkHZyvGQ5oVp2)
-- [Stacks](https://www.youtube.com/watch?v=XcaAZ6wNkYM&list=PLK63NuByH5o9odyBT7nfYkHZyvGQ5oVp2)
-- [Queues](https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04)
-- [Hash Tables](https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0)
-- [Binary Tree](https://www.youtube.com/watch?v=p85ohoV6Z4E&list=PLK63NuByH5o9odyBT7nfYkHZyvGQ5oVp2)
-- [Binary Search Tree](https://www.youtube.com/watch?v=PoJYBTSM0IU&list=PLK63NuByH5o9odyBT7nfYkHZyvGQ5oVp2)
-- [Heaps](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238)
-- [Recursion](https://leetcode.com/discuss/study-guide/1733447/become-master-in-recursion)
-- [Backtracking](https://medium.com/algorithms-and-leetcode/backtracking-e001561b9f28)
-- [Trees](https://leetcode.com/discuss/study-guide/1820334/Become-Master-in-Tree)
-- [Tries](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014)
-- [Binary Search](https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems)
-- [Greedy Algorithm](https://www.freecodecamp.org/news/greedy-algorithms/)
-- [Dynamic Programming](https://medium.com/basecs/less-repetition-more-dynamic-programming-43d29830a630)
-- [Graph Theory](https://www.youtube.com/watch?v=xN5VGzK9_FQ&list=PLK63NuByH5o9odyBT7nfYkHZyvGQ5oVp2)
-- [Master Graph Algorithms](https://blog.algomaster.io/p/master-graph-algorithms-for-coding)
-- [DFS Traversal](https://medium.com/basecs/deep-dive-through-a-graph-dfs-traversal-8177df5d0f13)
-- [BFS Traversal](https://medium.com/basecs/going-broad-in-a-graph-bfs-traversal-959bd1a09255)
-- [Union-Find](https://leetcode.com/discuss/general-discussion/1072418/Disjoint-Set-Union-(DSU)Union-Find-A-Complete-Guide)
-- [Dijkstra Algorithm](https://leetcode.com/discuss/study-guide/1059477/A-guide-to-Dijkstra's-Algorithm)
+- [Algorithmic Complexity](https://algomaster.io/learn/dsa/big-o-introduction)
+- [Arrays](https://algomaster.io/learn/dsa/arrays-introduction)
+- [Bit Manipulation Techniques](https://algomaster.io/learn/dsa/bit-manipulation-introduction)
+- [Sorting Algorithms](https://algomaster.io/learn/dsa/bubble-sort)
+- [Linked List](https://algomaster.io/learn/dsa/linked-list-introduction)
+- [Stacks](https://algomaster.io/learn/dsa/stack-introduction)
+- [Queues](https://algomaster.io/learn/dsa/queue-introduction)
+- [Hash Tables](https://algomaster.io/learn/dsa/hash-tables-introduction)
+- [Binary Tree](https://algomaster.io/learn/dsa/binary-tree-introduction)
+- [Binary Search Tree](https://algomaster.io/learn/dsa/bst-introduction)
+- [Heaps](https://algomaster.io/learn/dsa/heaps-introduction)
+- [Recursion](https://algomaster.io/learn/dsa/recursion-fundamentals)
+- [Backtracking](https://algomaster.io/learn/dsa/backtracking-introduction)
+- [Tries](https://algomaster.io/learn/dsa/tries-introduction)
+- [Binary Search](https://algomaster.io/learn/dsa/binary-search-introduction)
+- [Greedy Algorithm](https://algomaster.io/learn/dsa/greedy-introduction)
+- [Dynamic Programming](https://algomaster.io/learn/dsa/dp-introduction)
+- [Graph Theory](https://algomaster.io/learn/dsa/graphs-introduction)
+- [DFS Traversal](https://algomaster.io/learn/dsa/dfs-introduction)
+- [BFS Traversal](https://algomaster.io/learn/dsa/bfs-introduction)
+- [Union-Find](https://algomaster.io/learn/dsa/union-find-introduction)
+- [Dijkstra Algorithm](https://algomaster.io/learn/dsa/dijkstras-algorithm)
 - [Minimum Spanning Tree](https://www.hackerearth.com/practice/algorithms/graphs/minimum-spanning-tree/tutorial/)
 
 ## 🚀 Patterns
-- [15 Leetcode Patterns](https://blog.algomaster.io/p/15-leetcode-patterns)
+- [20 Leetcode Patterns](https://blog.algomaster.io/p/20-dsa-patterns)
 - [20 DP Patterns](https://blog.algomaster.io/p/20-patterns-to-master-dynamic-programming)
-- [Two Pointers Pattern](https://www.youtube.com/watch?v=QzZ7nmouLTI&list=PLK63NuByH5o9odyBT7nfYkHZyvGQ5oVp2)
-- [Sliding Window Pattern](https://www.youtube.com/watch?v=y2d0VHdvfdc&list=PLK63NuByH5o9odyBT7nfYkHZyvGQ5oVp2)
-- [Prefix Sum Pattern](https://www.youtube.com/watch?v=yuws7YK0Yng&list=PLK63NuByH5o9odyBT7nfYkHZyvGQ5oVp2)
-- [Fast and Slow Pointers Pattern](https://www.youtube.com/watch?v=b139yf7Ik-E&list=PLK63NuByH5o9odyBT7nfYkHZyvGQ5oVp2)
-- [Top 'K' Elements Pattern](https://www.youtube.com/watch?v=6_v6OoxvMOE&list=PLK63NuByH5o9odyBT7nfYkHZyvGQ5oVp2)
-- [Kadane's Algorithm](https://www.youtube.com/watch?v=NUWAXbSlsws&list=PLK63NuByH5o9odyBT7nfYkHZyvGQ5oVp2)
-- [Linked List In-place Reversal Pattern](https://www.youtube.com/watch?v=auoTGovuo9A&list=PLK63NuByH5o9odyBT7nfYkHZyvGQ5oVp2)
-- [Monotonic Stack Pattern](https://www.youtube.com/watch?v=DtJVwbbicjQ&list=PLK63NuByH5o9odyBT7nfYkHZyvGQ5oVp2)
-- [Overlapping Intervals Pattern](https://blog.algomaster.io/p/812e72f7-eced-4256-a4c1-00606ae50679)
-- [Backtracking Pattern](https://blog.algomaster.io/p/81d42ca2-600c-4252-aa33-a56462090048)
-- [Modified Binary Search Pattern](https://blog.algomaster.io/p/d0d81b04-4c2a-4b45-a101-5137c3146686)
-- [Tree Patterns](https://leetcode.com/discuss/study-guide/937307/Iterative-or-Recursive-or-DFS-and-BFS-Tree-Traversal-or-In-Pre-Post-and-LevelOrder-or-Views)
-  - [Tree Iterative Traversal](https://medium.com/leetcode-patterns/leetcode-pattern-0-iterative-traversals-on-trees-d373568eb0ec)
-  - [Tree Question Pattern](https://leetcode.com/discuss/study-guide/2879240/TREE-QUESTION-PATTERN-2023-oror-TREE-STUDY-GUIDE) 
-- [Graph Patterns](https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions)
-- [DFS + BFS Patterns (1)](https://medium.com/leetcode-patterns/leetcode-pattern-1-bfs-dfs-25-of-the-problems-part-1-519450a84353)
-- [DFS + BFS Patterns (2)](https://medium.com/leetcode-patterns/leetcode-pattern-2-dfs-bfs-25-of-the-problems-part-2-a5b269597f52)
+- [Two Pointers Pattern](https://algomaster.io/learn/dsa/two-pointers-introduction)
+- [Sliding Window Pattern](https://algomaster.io/learn/dsa/sliding-window-introduction)
+- [Prefix Sum Pattern](https://algomaster.io/learn/dsa/prefix-sum-introduction)
+- [Fast and Slow Pointers Pattern](https://algomaster.io/learn/dsa/fast-slow-pointers-introduction)
+- [Top 'K' Elements Pattern](https://algomaster.io/learn/dsa/top-k-elements-introduction)
+- [Kadane's Algorithm](https://algomaster.io/learn/dsa/kadane-s-algorithm-introduction)
+- [Linked List In-place Reversal Pattern](https://algomaster.io/learn/dsa/linked-list-in-place-reversal-introduction)
+- [Monotonic Stack Pattern](https://algomaster.io/learn/dsa/monotonic-stack-introduction)
+- [Overlapping Intervals Pattern](https://algomaster.io/learn/dsa/intervals-introduction)
 
 ## 📝 Must-Read Leetcode Articles
 - [Sliding Window Template](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/)
@@ -104,15 +93,6 @@ This repository contains awesome LeetCode resources to learn Data Structures and
 ## 🔎 Visualization
 - [AlgoMaster DSA Animations](https://algomaster.io/animations/dsa)
 - [VisuAlgo](https://visualgo.net/en)
-
-## 📎 LeetCode Extensions
-- [LeetCode Timer](https://chromewebstore.google.com/detail/leetcode-timer/gfkgelnlcnomnahkfmhemgpahgmibofd): Easily time your leetcode practise sessions with automatic time setting based on difficulty.
-- [LeetCode Video Solutions](https://chromewebstore.google.com/detail/leetcode-video-solutions/ilnmgkahgjdpkoliooildngldmilhelm): Watch free LeetCode video ▶ solutions on the problem page itself.
-- [LeetCode Format](https://chromewebstore.google.com/detail/leetcode-format/imogghebhifnnlgogigikjecilkicfpp): Adds Format code button on leetcode to format the code using Prettier code formatter.
-- [LeetHub v2](https://chromewebstore.google.com/detail/leethub-v2/mhanfgfagplhgemhjfeolkkdidbakocm?hl=en): Automatically integrate your Leetcode & GeeksforGeeks submissions to GitHub.
-- [LeetCode VS Code Extension](https://marketplace.visualstudio.com/items?itemName=LeetCode.vscode-leetcode): Solve LeetCode problems in VS Code.
-
-Your contributions are most welcome!
 
 ---
 
