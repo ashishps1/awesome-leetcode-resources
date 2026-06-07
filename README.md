@@ -82,6 +82,7 @@ This repository contains awesome resources to learn Data Structures and Algorith
 ## 📇 Courses
 - [Coursera - Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 - [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
+- [TutorialSearch](https://tutorialsearch.io/browse/programming-languages/algorithms-interviews) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## 📚 Books
 - [Data Structures And Algorithms Made Easy](https://www.amazon.in/dp/B08CMLS7LZ)
