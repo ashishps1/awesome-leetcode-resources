@@ -70,6 +70,7 @@ This repository contains awesome resources to learn Data Structures and Algorith
 - [Blind 75](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 - [Leetcode Top 100 Liked](https://leetcode.com/studyplan/top-100-liked/)
 - [Leetcode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)
+- [Top Questions Asked By Companies](https://nikhilm25.github.io/RelevantLeetcode/)
 
 ## 📺 YouTube Playlist
 - [AlgoMaster DSA Playlist](https://www.youtube.com/playlist?list=PLK63NuByH5o9odyBT7nfYkHZyvGQ5oVp2&pp=gAQB)
