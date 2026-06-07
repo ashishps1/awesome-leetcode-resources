@@ -5,7 +5,7 @@ class MonotonicStack {
         let stack = []; // Stack stores indices
 
         for (let i = 0; i < n; i++) {
-            while (stack.length > 0 && nums[i] > nums[stack[stack.length - 1]]) {
+            while (stack.length > 0 && nums[i] > nums[stack.at(-1)]) {
                 let index = stack.pop();
                 result[index] = nums[i];
             }
@@ -20,7 +20,7 @@ class MonotonicStack {
         let stack = []; // Monotonic decreasing stack
 
         for (let i = 0; i < n; i++) {
-            while (stack.length > 0 && temperatures[i] > temperatures[stack[stack.length - 1]]) {
+            while (stack.length > 0 && temperatures[i] > temperatures[stack.at(-1)]) {
                 let prevIndex = stack.pop();
                 result[prevIndex] = i - prevIndex;
             }
