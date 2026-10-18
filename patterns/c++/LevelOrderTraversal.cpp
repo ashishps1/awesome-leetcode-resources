@@ -2,7 +2,6 @@
 #include <queue>
 using namespace std;
 
-// Definition for a binary tree node.
 struct TreeNode {
     int val;
     TreeNode* left;
@@ -22,9 +21,9 @@ public:
         while (!q.empty()) {
             TreeNode* node = q.front();
             q.pop();
-            cout << node->val << " "; // Process the node by printing its value
+            cout << node->val << " "; 
             
-            // Add the left and right children to the queue, if they exist
+            
             if (node->left != nullptr) q.push(node->left);
             if (node->right != nullptr) q.push(node->right);
         }
