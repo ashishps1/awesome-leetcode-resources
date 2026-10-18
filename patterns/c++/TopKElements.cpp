@@ -8,7 +8,6 @@ using namespace std;
 
 class TopKElements {
 public:
-    // K Largest Elements using Sorting
     vector<int> kLargestElementsSortingAppraoch(vector<int>& nums, int k) {
         sort(nums.begin(), nums.end(), greater<int>());
         return vector<int>(nums.begin(), nums.begin() + k);

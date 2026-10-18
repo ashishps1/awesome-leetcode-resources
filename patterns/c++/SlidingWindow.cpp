@@ -7,11 +7,10 @@ using namespace std;
 
 class SlidingWindow {
 public:
-    double findMaxAverageBruteForce(vector<int>& nums, int k) {
+    d
         int n = nums.size();
-        double maxAvg = INT_MIN;
-
-        for (int i = 0; i <= n - k; i++) {
+    
+        for (int i = 0; i <= n - k; i++
             int sum = 0;
             for (int j = i; j < i + k; j++) {
                 sum += nums[j];
