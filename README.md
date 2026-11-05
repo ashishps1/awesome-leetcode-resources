@@ -93,6 +93,7 @@ This repository contains awesome resources to learn Data Structures and Algorith
 ## 🔎 Visualization
 - [AlgoMaster DSA Animations](https://algomaster.io/animations/dsa)
 - [VisuAlgo](https://visualgo.net/en)
+- [Buddy: hints and drawn walk-throughs on your own LeetCode screen (Mac)](https://github.com/projects-hacks/buddy)
 
 ---
 
